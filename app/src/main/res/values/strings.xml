@@ -6,4 +6,9 @@
 
     <string name="action_settings">Settings</string>
     <string name="title_activity_music_quiz">MusicQuiz</string>
+
+    <string name="loginPref">LoginPreference</string>
+
+    <string name="NAS_WALL_APP_KEY">9f3df5e61cb907d823fffce19a877a9f</string>
+    <string name="facebook_app_id">403677719733998</string>
 </resources>
